@@ -1,7 +1,7 @@
 {
   "name": "darcade-syntax",
   "theme": "syntax",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Colorful syntax made for coding python in the darkness.",
   "keywords": [
     "syntax",
