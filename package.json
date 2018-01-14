@@ -1,7 +1,7 @@
 {
   "name": "darcade-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A dark neutral theme with colorful syntax. Made for Python.",
   "keywords": [
     "syntax",
