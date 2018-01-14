@@ -1,3 +1,3 @@
 # darcade-syntax theme
 
-Colorful syntax on a neutral dark background.
+Colorful syntax made for coding python in the darkness.
